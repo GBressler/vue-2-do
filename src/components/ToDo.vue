@@ -24,9 +24,9 @@ export default {
       checked: false,
       task: '',
       tasks: [
-      {"task": "Finish this tutorial."},
-      {"task": "Make lunch."},
-      {"task": "Make dinner."},
+      {"task": "Make coffee."},
+      {"task": "Fight crime."},
+      {"task": "Get some sleep."},
       ]
       }
     },
